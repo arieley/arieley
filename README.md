@@ -18,6 +18,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![](https://tenor.com/pt-BR/view/sanrio-gif-5722731684639508241)
+![](https://tenor.com/embed.js)
 
 
