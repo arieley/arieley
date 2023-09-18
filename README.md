@@ -17,7 +17,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-![](https://tenor.com/embed.js)
-
+![sanrio](https://github.com/arieley/arieley/assets/132507404/35ce2d11-8afe-4640-939d-5df55969b0ab)
 
