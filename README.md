@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Bem vindo ao meu perfil :)**<br>    Meu nome é ary <br><br>•Estou estudando no Alura<br><br>•Estou me desenvolvendo na linguagem JavaScript<br><br>•Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos<br>
+**Bem vindo ao meu perfil :)**<br>    Meu nome é ary <br><br>•Estou estudando no [Alura](https://www.alura.com.br)<br><br>•Estou me desenvolvendo na linguagem JavaScript<br><br>•Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos<br>
 
 
 # 💻 Tech Stack:
@@ -16,5 +16,8 @@
 [![](https://visitcount.itsvg.in/api?id=arieley &icon=9&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![](https://tenor.com/pt-BR/view/sanrio-gif-5722731684639508241)
 
 
